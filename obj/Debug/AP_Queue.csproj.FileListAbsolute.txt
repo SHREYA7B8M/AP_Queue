@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Queue\AP_Queue\bin\Debug\AP_Queue.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Queue\AP_Queue\bin\Debug\AP_Queue.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Queue\AP_Queue\bin\Debug\AP_Queue.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Queue\AP_Queue\obj\Debug\AP_Queue.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Queue\AP_Queue\obj\Debug\AP_Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Queue\AP_Queue\obj\Debug\AP_Queue.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Queue\AP_Queue\obj\Debug\AP_Queue.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Queue\AP_Queue\obj\Debug\AP_Queue.pdb
